@@ -1,2 +1,10 @@
 # first_of_grammar
-first of grammar 
+
+
+### Input format as below
+```
+S->ACB|CbB|Ba
+A->da|BC
+B->g|$
+C->h|$
+```
