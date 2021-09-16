@@ -1,0 +1,5 @@
+S->ABa|bCA
+A->cBCD|$
+B->CdA|ad
+C->eC|$
+D->bsf|a

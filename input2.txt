@@ -1,0 +1,5 @@
+S->A
+A->aBX
+X->dX|$
+B->b
+C->g
