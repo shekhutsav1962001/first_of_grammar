@@ -1,5 +1,8 @@
 # first_of_grammar
 
+```
+considering  epsilon(null) value as $ in input file
+```
 
 #### Input format as below
 ```
